@@ -24,4 +24,6 @@ Proyecto personal.
 
 Esta vitrina contiene únicamente texto e imágenes seleccionadas para presentación. El código fuente, los datos y el historial del proyecto no se publican aquí.
 
+[Ver la ficha visual de LivingHeart](https://alfredoae2578.github.io/projects/livingheart-presentacion.html)
+
 [Ver todos los proyectos](https://alfredoae2578.github.io/)
